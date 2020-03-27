@@ -1,2 +1,2 @@
-# Bazooka! 
+# Bazooka! :gun:
 > Allows you to interact with ethereum chains easily using simple API's
